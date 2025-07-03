@@ -62,3 +62,4 @@ The code in Form1_Load will handle loading the font. No further action is needed
 In the Visual Studio menu, go to Build > Rebuild Solution.
 Press F5 or click the Start button to run the application.
 
+![image](https://github.com/user-attachments/assets/b83894a2-5298-4383-9f79-090aa9648574)
